@@ -1,2 +1,2 @@
 # Squirtle
-For Erica's Wordal Addiction
+For Erica's Wordle Addiction
